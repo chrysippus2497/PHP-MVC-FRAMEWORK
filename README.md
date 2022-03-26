@@ -1,6 +1,6 @@
 # php-mvc-framework-pdo
 
-This is my personal MVC Framework for PHP with PDO \
+This is my personal MVC Framework for PHP with PDO. \
 \
 \
 \
